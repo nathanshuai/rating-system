@@ -1,7 +1,7 @@
 
-### Smile N Wave
+### StarRating
 
-# Click [here]() to check the magic of smile and wave.
+# Click [here](https://nathanshuai.github.io/rating-system/) to check the Rating-system
 
 <br />
 
